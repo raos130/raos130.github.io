@@ -2,14 +2,14 @@
 
 
 body {
-  height: 917vw;
+  height: 950vw;
   background: linear-gradient(#F7EAAB, #B2EEDB);
 }
 
 .full-page {
   margin: auto;
   width: 80vw;
-  height: 917vw;
+  height: 950vw;
   /* border: 3px solid red; */
 
 }
@@ -17,6 +17,7 @@ body {
   font-style: normal;
   font-family: freight-neo-pro, sans-serif;
   font-weight: 300;
+  padding-bottom: 3vw;
   font-size: 2vw;
   margin: auto;
   width: 60vw;
@@ -157,7 +158,7 @@ page::selection{
 }
 .para19{
   margin-top: -8vw;
-  padding-bottom: 3vw;
+  padding-bottom: -3vw;
 }
 
 
